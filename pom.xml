@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.scramble-ext</groupId>
-    <artifactId>scrambleid-sdk-release-1.0.3</artifactId>
-    <version>1.0.3</version>
+    <artifactId>scrambleid-sdk-release-1.0.4</artifactId>
+    <version>1.0.4</version>
     <dependencies>
         <dependency>
             <groupId>io.insert-koin</groupId>
