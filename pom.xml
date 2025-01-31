@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.scramble-ext</groupId>
-    <artifactId>scrambleid-sdk-release-1.0.10</artifactId>
-    <version>1.0.10</version>
+    <artifactId>scrambleid-sdk-release-1.0.11</artifactId>
+    <version>1.0.11</version>
     <dependencies>
         <dependency>
             <groupId>io.insert-koin</groupId>
@@ -40,6 +40,11 @@
             <groupId>androidx.security</groupId>
             <artifactId>security-crypto</artifactId>
             <version>1.1.0-alpha06</version>
+        </dependency>
+        <dependency>
+            <groupId>com.scottyab</groupId>
+            <artifactId>rootbeer-lib</artifactId>
+            <version>0.1.1</version>
         </dependency>
     </dependencies>
 </project>
